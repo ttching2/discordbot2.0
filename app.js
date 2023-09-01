@@ -36,5 +36,5 @@ for (const file of eventFiles) {
     }
 }
 
-console.log(process.env.DISCORD_TOKEN)
+
 client.login(process.env.DISCORD_TOKEN);
